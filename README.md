@@ -7,12 +7,14 @@ Instead of manually writing HTML, CSS, and JavaScript, users can simply describe
 ---
 
 ## 🖼️ Preview
+## 🖼️ Preview
 
-![Landing Page]([https://your-image-url.com/landing.png](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400094/Screenshot_2026-04-05_193634_l6lb7d.png))
-![Dashboard]([https://your-image-url.com/dashboard.png](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400080/Screenshot_2026-04-05_200052_ycdgpe.png))
-![Builder Interface]([https://your-image-url.com/builder.png](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400080/Screenshot_2026-04-05_200035_w4v9x5.png))
+![Landing Page](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400094/Screenshot_2026-04-05_193634_16lb7d.png)
 
-> 🔁 Replace these 3 URLs with your actual screenshots later
+![Dashboard](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400080/Screenshot_2026-04-05_200052_ycdgpe.png)
+
+![Builder Interface](https://res.cloudinary.com/dulmeinq0/image/upload/v1775400080/Screenshot_2026-04-05_200035_w4y9x5.png)
+
 
 ---
 
