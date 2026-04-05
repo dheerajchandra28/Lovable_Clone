@@ -1,6 +1,6 @@
-# 🚀 Dheeraj.dev — AI-Powered Web App Builder
+# 🚀 Dheeraj.dev — Web App Builder
 
-Dheeraj.dev is a full-stack AI-powered platform that allows users to generate complete web applications using natural language prompts.
+Dheeraj.dev is a full-stack platform that allows users to generate complete web applications using natural language prompts.
 
 Instead of manually writing HTML, CSS, and JavaScript, users can simply describe what they want — and the system generates a fully functional web app with live preview and editable code.
 
